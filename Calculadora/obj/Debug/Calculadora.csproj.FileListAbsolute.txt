@@ -1,0 +1,17 @@
+E:\Executaveis liberados\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\Executaveis liberados\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\Executaveis liberados\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\Executaveis liberados\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+E:\Executaveis liberados\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+E:\Executaveis liberados\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\Executaveis liberados\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Samsung\Downloads\Calculadora-20170310T185829Z-001\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Samsung\Downloads\Calculadora-20170310T185829Z-001\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Samsung\Downloads\Calculadora-20170310T185829Z-001\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Samsung\Downloads\Calculadora-20170310T185829Z-001\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Samsung\Downloads\Calculadora-20170310T185829Z-001\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Samsung\Downloads\Calculadora-20170310T185829Z-001\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Downloads\Calculadora-20170310T185829Z-001\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Samsung\Downloads\Calculadora-20170310T185829Z-001\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Samsung\Downloads\Calculadora-20170310T185829Z-001\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
